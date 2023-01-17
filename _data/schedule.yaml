@@ -34,7 +34,14 @@
     -
      title: "Lab 01"
     -
-     title: "PPP C++ §4: Computation"
+     title: "PPP C++ §22.1: Ideals"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch04.xhtml#ch04"
+     pages: "807-818"
+     length:
+       value: 12
+       unit: "pages"
+    -
+     title: "Review: PPP C++ §4: Computation"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch04.xhtml#ch04"
      pages: "89-125"
      length:
@@ -121,7 +128,7 @@
 ###################################
   start_new_week: true   # Week 5
 ###################################
-  topic: "Binary Files"
+  topic: ""
   day_of_week: 1
 -
 ###################################
@@ -132,9 +139,13 @@
   reading:
     -
      title: "Lab 06"
--
-  topic: "Operator Overloading"
-  day_of_week: 3
+    -
+     title: "PPP C++ §A.15: Namespaces"
+     url: "https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/app01.xhtml#app01lev1sec15"
+     pages: "1127"
+     length:
+       value: 1
+       unit: "pages"
 -
 ###################################
   start_new_week: true   # Week 7
