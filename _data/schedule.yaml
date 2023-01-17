@@ -53,6 +53,7 @@
 ###################################
   topic: "Git"
   day_of_week: 1
+  reading:
     -
      title: "PPP C++ §9: Classes"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
