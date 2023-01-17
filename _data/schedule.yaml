@@ -36,7 +36,6 @@
     -
      title: "PPP C++ §4: Computation"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch04.xhtml#ch04"
-     optional: true
      pages: "89-125"
      length:
        value: 37
@@ -47,6 +46,13 @@
 ###################################
   topic: "Git"
   day_of_week: 1
+    -
+     title: "PPP C++ §9: Classes"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
+     pages: "303-338"
+     length:
+       value: 35
+       unit: "pages"
 -
   day_of_week: 3
   topic: "Classes"
@@ -54,12 +60,18 @@
     -
      title: "HW00 due"
     -
-     title: "PPP C++ §9: Classes"
-     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
-     optional: true
-     pages: "303-338"
+     title: "PPP C++ §14.3: Base and derived classes"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch14.xhtml#ch14lev1sec3"
+     pages: "504-513"
      length:
-       value: 35
+       value: 9
+       unit: "pages"
+    -
+     title: "PPP C++ §14.4: Benefits of object-oriented programming"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch14.xhtml#ch14lev1sec4"
+     pages: "513-514"
+     length:
+       value: 2
        unit: "pages"
 -
 ###################################
@@ -71,9 +83,8 @@
     -
      title: "Lab 02"
     -
-     title: "PPP C++ §10: Classes"
+     title: "PPP C++ §10: Input and Output Streams"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
-     optional: true
      pages: "346-376"
      length:
        value: 30
@@ -87,11 +98,18 @@
 ###################################
   start_new_week: true   # Week 4
 ###################################
-  topic: "Files and iostreams"
+  topic: "Customizing I/O"
   day_of_week: 1
   reading:
     -
      title: "Lab 04"
+    -
+     title: "PPP C++ §11: Customizing Input and Output"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch11.xhtml#ch11"
+     pages: "380-406"
+     length:
+       value: 27
+       unit: "pages"
 -
   day_of_week: 4
   reading:
