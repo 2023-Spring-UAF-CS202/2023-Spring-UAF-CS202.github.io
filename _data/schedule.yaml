@@ -33,6 +33,14 @@
   reading:
     -
      title: "Lab 01"
+    -
+     title: "PPP C++ §4: Computation"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch04.xhtml#ch04"
+     optional: true
+     pages: "89-125"
+     length:
+       value: 37
+       unit: "pages"
 -
 ###################################
   start_new_week: true   # Week 2
@@ -45,15 +53,31 @@
   reading:
     -
      title: "HW00 due"
+    -
+     title: "PPP C++ §9: Classes"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
+     optional: true
+     pages: "303-338"
+     length:
+       value: 35
+       unit: "pages"
 -
 ###################################
   start_new_week: true   # Week 3
 ###################################
-  topic: "Pointers in C++"
+  topic: "I/O"
   day_of_week: 1
   reading:
     -
      title: "Lab 02"
+    -
+     title: "PPP C++ §10: Classes"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
+     optional: true
+     pages: "346-376"
+     length:
+       value: 30
+       unit: "pages"
 -
   day_of_week: 3
   reading:
