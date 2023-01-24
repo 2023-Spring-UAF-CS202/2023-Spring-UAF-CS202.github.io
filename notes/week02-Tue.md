@@ -5,10 +5,10 @@
 + loops
   - while loop has a condition that evaluates to true or false, the body runs if condition is true. The condition is evaluated *before* the body of the loop is run. This means the body of the loop might run zero times.
 
-    while (condition) {
-        // body of the loop
-        // this will execute zero or more times
-    }
+  while (condition) {
+    // body of the loop
+    // this will execute zero or more times
+   }
 
    - do..while loop. Like a while loop, but the condition is evaluated *after* the body of the loop runs. This means that the loop body will run at least once.
 
