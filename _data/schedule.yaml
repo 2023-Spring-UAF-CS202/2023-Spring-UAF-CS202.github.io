@@ -56,7 +56,7 @@
   reading:
     -
      title: "Notes about loops and classes"
-     url:   "notes/week02-Tue"
+     url:   "../notes/week02-Tue"
     -
      title: "PPP C++ §9: Classes"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
