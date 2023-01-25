@@ -55,6 +55,9 @@
   day_of_week: 1
   reading:
     -
+     title: "Notes about loops and classes"
+     url:   "notes/week02-Tue"
+    -
      title: "PPP C++ §9: Classes"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
      pages: "303-338"
@@ -65,8 +68,6 @@
   day_of_week: 3
   topic: "Classes"
   reading:
-    -
-     title: "HW00 due"
     -
      title: "PPP C++ §14.3: Base and derived classes"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch14.xhtml#ch14lev1sec3"
