@@ -3,8 +3,19 @@
 
 ## Loops
 
-+ loops
-  - while loop has a condition that evaluates to true or false, the body runs if condition is true. The condition is evaluated *before* the body of the loop is run. This means the body of the loop might run zero times.
+Loops based on evaluating on evaluating a boolean condition:
+* while loop
+* do-while loop
+* for loop
+
+Loops based on iterating over a collection:
+* for-each loop
+
+
+### while loop
+
+A while loop has a condition that evaluates to true or false, the body runs if condition is true. The condition is evaluated *before* the body of the loop is run. This means the body of the loop might run zero times.
+
 ```
   while (condition) {
     // body of the loop
@@ -12,21 +23,32 @@
    }
 ```
 
-   - do..while loop. Like a while loop, but the condition is evaluated *after* the body of the loop runs. This means that the loop body will run at least once.
+### do-while loop
+
+Like a while loop, but the condition is evaluated *after* the body of the loop runs. This means that the loop body will run at least once.
+
 ```
     do {
         // body of the loop
         // this will execute one or more times
     } while (condition)
 ```
-   - for loop provides an opportunity for the programmer to define a new variable whose scope is the body of the loop
+
+### for loop
+
+A for loop provides an opportunity for the programmer to define a new variable whose scope is the body of the loop.
+
 ```    
     for (int x {0}; condition; ++x)  {
         // body of the loop
         // this will execute zero or more times
     }
 ```
-   - for-each loop iterates over each element in a collection exactly once, from beginning to end 
+
+### for-each loop
+
+A for-each loop iterates over each element in a collection exactly once, from beginning to end 
+
 ```
     for (auto item : collection)  {
 
@@ -37,14 +59,16 @@
     }
 ```
 
-## Examples of iteration loops in other languages
+### Examples of iteration loops in other languages
 
-### Javascript
+#### Javascript
+
 ```
     items.map(item => { … } )
 ``` 
 
-### Ruby
+#### Ruby
+
 ```
     1.upto(10) {. … }  
 ```
