@@ -51,12 +51,15 @@
 ###################################
   start_new_week: true   # Week 2
 ###################################
-  topic: "Git"
   day_of_week: 1
   reading:
     -
      title: "Notes about loops and classes"
      url:   "../notes/week02-Tue"
+-
+  day_of_week: 3
+  topic: "Classes"
+  reading:
     -
      title: "PPP C++ §9: Classes"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch09.xhtml#ch09"
@@ -65,8 +68,10 @@
        value: 35
        unit: "pages"
 -
-  day_of_week: 3
-  topic: "Classes"
+###################################
+  start_new_week: true   # Week 3
+###################################
+  day_of_week: 1
   reading:
     -
      title: "PPP C++ §14.3: Base and derived classes"
@@ -82,176 +87,162 @@
      length:
        value: 2
        unit: "pages"
--
-###################################
-  start_new_week: true   # Week 3
-###################################
-  topic: "I/O"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 02"
-    -
-     title: "PPP C++ §10: Input and Output Streams"
-     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
-     pages: "346-376"
-     length:
-       value: 30
-       unit: "pages"
--
-  day_of_week: 3
-  reading:
-    -
-     title: "Lab 03"
--
-###################################
-  start_new_week: true   # Week 4
-###################################
-  topic: "Customizing I/O"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 04"
-    -
-     title: "PPP C++ §11: Customizing Input and Output"
-     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch11.xhtml#ch11"
-     pages: "380-406"
-     length:
-       value: 27
-       unit: "pages"
--
-  day_of_week: 4
-  reading:
-    -
-     title: "HW01 due"
-    -
-     title: "Lab 05"
--
-###################################
-  start_new_week: true   # Week 5
-###################################
-  topic: ""
-  day_of_week: 1
--
-###################################
-  start_new_week: true   # Week 6
-###################################
-  topic: "Namespaces"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 06"
-    -
-     title: "PPP C++ §A.15: Namespaces"
-     url: "https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/app01.xhtml#app01lev1sec15"
-     pages: "1127"
-     length:
-       value: 1
-       unit: "pages"
--
-###################################
-  start_new_week: true   # Week 7
-###################################
-  topic: "Static, Friend, Enum"
-  day_of_week: 1
-  reading:
-    -
-     title: "HW02 due"
-    -
-     title: "Lab 07"
--
-  topic: "Operator Overloading"
-  day_of_week: 3
-  reading:
-    -
-     title: "Lab 08"
--
-###################################
-  start_new_week: true   # Week 8
-###################################
-  topic: "Implementing a SmartArray class"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 09"
--
-###################################
-  start_new_week: true   # Week 9
-###################################
-  topic: "Spring Break"
-  day_of_week: 1
--
-  day_of_week: 3
--
-###################################
-  start_new_week: true   # Week 10
-###################################
--
-  day_of_week: 3
-  reading:
-    -
-     title: "HW03 due"
--
-###################################
-  start_new_week: true   # Week 11
-###################################
--
-###################################
-  start_new_week: true   # Week 12
-###################################
-  topic: "Exceptions"
-  day_of_week: 1
-  reading:
-    -
-     title: "Take-home midterm due"
-    -
-     title: "Lab 10"
--
-  topic: "Inheritance"
-  day_of_week: 3
-  reading:
-    -
-     title: "Lab 11"
--
-###################################
-  start_new_week: true   # Week 13
-###################################
-  topic: "Inheritance: Polymorphism"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 12"
--
-###################################
-  start_new_week: true   # Week 14
-###################################
-  topic: "Function Templates"
-  day_of_week: 1
-  reading:
-    -
-     title: "Lab 13"
--
-  topic: "Class Templates"
-  day_of_week: 3
-  reading:
-    -
-     title: "HW04 due"
-    -
-     title: "Lab 14"
--
-###################################
-  start_new_week: true   # Week 15
-###################################
-  topic: "Review"
-  day_of_week: 1
--
-###################################
-  start_new_week: true   # Week 16
-###################################
-  day_of_week: 0
-  reading:
-    -
-     title: "HW05 due"
--
-  topic: "Final Exam"
-  day_of_week: 3
+# -
+#   day_of_week: 3
+# -
+# ###################################
+#   start_new_week: true   # Week 4
+# ###################################
+#   topic: "Customizing I/O"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "PPP C++ §10: Input and Output Streams"
+#      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
+#      pages: "346-376"
+#      length:
+#        value: 30
+#        unit: "pages"  
+#     -
+#      title: "PPP C++ §11: Customizing Input and Output"
+#      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch11.xhtml#ch11"
+#      pages: "380-406"
+#      length:
+#        value: 27
+#        unit: "pages"
+# -
+#   day_of_week: 4
+#   reading:
+#     -
+#      title: "HW01 due"
+#     -
+#      title: "Lab 05"
+# -
+# ###################################
+#   start_new_week: true   # Week 5
+# ###################################
+#   topic: ""
+#   day_of_week: 1
+# -
+# ###################################
+#   start_new_week: true   # Week 6
+# ###################################
+#   topic: "Namespaces"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "Lab 06"
+#     -
+#      title: "PPP C++ §A.15: Namespaces"
+#      url: "https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/app01.xhtml#app01lev1sec15"
+#      pages: "1127"
+#      length:
+#        value: 1
+#        unit: "pages"
+# -
+# ###################################
+#   start_new_week: true   # Week 7
+# ###################################
+#   topic: "Static, Friend, Enum"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "HW02 due"
+#     -
+#      title: "Lab 07"
+# -
+#   topic: "Operator Overloading"
+#   day_of_week: 3
+#   reading:
+#     -
+#      title: "Lab 08"
+# -
+# ###################################
+#   start_new_week: true   # Week 8
+# ###################################
+#   topic: "Implementing a SmartArray class"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "Lab 09"
+# -
+# ###################################
+#   start_new_week: true   # Week 9
+# ###################################
+#   topic: "Spring Break"
+#   day_of_week: 1
+# -
+#   day_of_week: 3
+# -
+# ###################################
+#   start_new_week: true   # Week 10
+# ###################################
+# -
+#   day_of_week: 3
+#   reading:
+#     -
+#      title: "HW03 due"
+# -
+# ###################################
+#   start_new_week: true   # Week 11
+# ###################################
+# -
+# ###################################
+#   start_new_week: true   # Week 12
+# ###################################
+#   topic: "Exceptions"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "Take-home midterm due"
+#     -
+#      title: "Lab 10"
+# -
+#   topic: "Inheritance"
+#   day_of_week: 3
+#   reading:
+#     -
+#      title: "Lab 11"
+# -
+# ###################################
+#   start_new_week: true   # Week 13
+# ###################################
+#   topic: "Inheritance: Polymorphism"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "Lab 12"
+# -
+# ###################################
+#   start_new_week: true   # Week 14
+# ###################################
+#   topic: "Function Templates"
+#   day_of_week: 1
+#   reading:
+#     -
+#      title: "Lab 13"
+# -
+#   topic: "Class Templates"
+#   day_of_week: 3
+#   reading:
+#     -
+#      title: "HW04 due"
+#     -
+#      title: "Lab 14"
+# -
+# ###################################
+#   start_new_week: true   # Week 15
+# ###################################
+#   topic: "Review"
+#   day_of_week: 1
+# -
+# ###################################
+#   start_new_week: true   # Week 16
+# ###################################
+#   day_of_week: 0
+#   reading:
+#     -
+#      title: "HW05 due"
+# -
+#   topic: "Final Exam"
+#   day_of_week: 3
