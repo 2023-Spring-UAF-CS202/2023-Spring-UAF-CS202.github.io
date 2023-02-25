@@ -89,27 +89,22 @@
        unit: "pages"
 # -
 #   day_of_week: 3
-# -
-# ###################################
-#   start_new_week: true   # Week 4
-# ###################################
+-
+###################################
+  start_new_week: true   # Week 4
+###################################
 #   topic: "Customizing I/O"
-#   day_of_week: 1
-#   reading:
-#     -
-#      title: "PPP C++ §10: Input and Output Streams"
-#      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
-#      pages: "346-376"
-#      length:
-#        value: 30
-#        unit: "pages"  
-#     -
-#      title: "PPP C++ §11: Customizing Input and Output"
-#      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch11.xhtml#ch11"
-#      pages: "380-406"
-#      length:
-#        value: 27
-#        unit: "pages"
+  day_of_week: 1
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/TOFNF4Oq0v3nMSaJVMR8kj_1Mhk5IoJ1DQzwrFathyJiN7mWb46ZK4Ia9onyewRd.c3sW6yXzOg8e0t8q"
+-
+  day_of_week: 3
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/KVCJrPycDDTyAuHw8r7mq_kpICXMveXXvwKcLSaSgKH5inl4UcWWNsdJ5QBRbXrw.ADRNctspN41QYjfT"
 # -
 #   day_of_week: 4
 #   reading:
@@ -117,16 +112,38 @@
 #      title: "HW01 due"
 #     -
 #      title: "Lab 05"
-# -
-# ###################################
-#   start_new_week: true   # Week 5
-# ###################################
+-
+###################################
+  start_new_week: true   # Week 5
+###################################
+  day_of_week: 1
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/RHqPIajx10cc3ZcIh5qg-dzCPFLs54eiV1zDULm1Wm1lYOgPtlzRu_VPpoBug9M-.ROJwdA7eZD4pZwLC"
+-
+  day_of_week: 3
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/6qVROxLbE3o8amhdfWzrz2j9D_TotvEraoCM_TDJvgNiK9mMDCtjKNwrmjP-V1kE.9cFVeYDFlKs4Nu_1"
 #   topic: ""
 #   day_of_week: 1
-# -
-# ###################################
-#   start_new_week: true   # Week 6
-# ###################################
+-
+###################################
+  start_new_week: true   # Week 6
+###################################
+  day_of_week: 1
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/tihuM3nnhNYX-ZSQNCxijLilC_4hSG6rl-yyTz5UnBtdG0Hd3BXrUql-800maFar.4Bt5DA-3hRLNApcn"
+-
+  day_of_week: 3
+  reading:
+    -
+     title: "Video"
+     url:   "https://alaska.zoom.us/rec/share/0YPobc81a6uJACYD_2YRE8-5ZWczT50mGjRrrzPjt7yhBjygpuH4dzvAqDMOi0GR.Jt_DNZHdoUu6nvO5"
 #   topic: "Namespaces"
 #   day_of_week: 1
 #   reading:
@@ -140,9 +157,23 @@
 #        value: 1
 #        unit: "pages"
 # -
-# ###################################
-#   start_new_week: true   # Week 7
-# ###################################
+###################################
+  start_new_week: true   # Week 7
+###################################
+     title: "PPP C++ §10: Input and Output Streams"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
+     pages: "346-376"
+     length:
+       value: 30
+       unit: "pages"  
+    -
+     title: "PPP C++ §11: Customizing Input and Output"
+     url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch11.xhtml#ch11"
+     pages: "380-406"
+     length:
+       value: 27
+       unit: "pages"
+-
 #   topic: "Static, Friend, Enum"
 #   day_of_week: 1
 #   reading:
