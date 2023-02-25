@@ -150,6 +150,9 @@
 ###################################
   start_new_week: true   # Week 7
 ###################################
+  day_of_week: 1
+  reading:
+    -
      title: "PPP C++ §10: Input and Output Streams"
      url: "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/ch10.xhtml#ch10"
      pages: "346-376"
