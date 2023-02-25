@@ -87,13 +87,12 @@
      length:
        value: 2
        unit: "pages"
-# -
-#   day_of_week: 3
+-
+   day_of_week: 3
 -
 ###################################
   start_new_week: true   # Week 4
 ###################################
-#   topic: "Customizing I/O"
   day_of_week: 1
   reading:
     -
@@ -105,13 +104,6 @@
     -
      title: "Video"
      url:   "https://alaska.zoom.us/rec/share/KVCJrPycDDTyAuHw8r7mq_kpICXMveXXvwKcLSaSgKH5inl4UcWWNsdJ5QBRbXrw.ADRNctspN41QYjfT"
-# -
-#   day_of_week: 4
-#   reading:
-#     -
-#      title: "HW01 due"
-#     -
-#      title: "Lab 05"
 -
 ###################################
   start_new_week: true   # Week 5
@@ -127,8 +119,6 @@
     -
      title: "Video"
      url:   "https://alaska.zoom.us/rec/share/6qVROxLbE3o8amhdfWzrz2j9D_TotvEraoCM_TDJvgNiK9mMDCtjKNwrmjP-V1kE.9cFVeYDFlKs4Nu_1"
-#   topic: ""
-#   day_of_week: 1
 -
 ###################################
   start_new_week: true   # Week 6
@@ -156,7 +146,7 @@
 #      length:
 #        value: 1
 #        unit: "pages"
-# -
+-
 ###################################
   start_new_week: true   # Week 7
 ###################################
