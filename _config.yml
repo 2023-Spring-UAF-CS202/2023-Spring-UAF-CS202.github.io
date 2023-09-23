@@ -2,6 +2,7 @@ site: "CS 202"
 url: https://cs.uaf.edu
 title: "CS 202"
 description: "Computer Science II"
+semester: "Spring 2023"
 
 permalink: pretty
 
